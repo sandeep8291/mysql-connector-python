@@ -5,3 +5,11 @@ Prerequisites
 - Python 3.6 or higher
 - MySQL server
 - mysql-connector-python library installed.
+
+To install mySql server visit                  https://dev.mysql.com/downloads/installer/
+for latest python versen visit                 https://www.python.org/downloads/
+for mysql-connector-python run in terminal     python -m pip install mysql-connector-python
+
+Contribution
+Contributions are welcome! If you find a bug or have an idea for improvement, feel free to submit an issue or a pull request.
+
