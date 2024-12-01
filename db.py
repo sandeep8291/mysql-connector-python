@@ -1,4 +1,4 @@
-#install mysqlcoo=nnector from terminal sing pip ( python -m pip install mysql-connector-python )
+#install mysqlcoo=nnector from terminal uing pip ( python -m pip install mysql-connector-python )
 import mysql.connector
 '''Start by creating a connection to the database.
 Use the username and password from your MySQL database'''
